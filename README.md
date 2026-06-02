@@ -1,4 +1,4 @@
-# CSE422 Project: [Insert Project Name Here]
+# CSE422 Project: Software Quality Prediction using Supervised and Unsupervised Machine Learning Algorithms
 
 ## 📌 Overview
 This repository contains the code and data for my CSE422 project. The goal of this project is to analyze [mention your dataset/topic] and build a model to [predict/classify/analyze] specific outcomes. 
